@@ -2,8 +2,8 @@
 
 Author: Trevor Hale
 
-Repository: https://github.com/thale4/LightsOut/
+Software: Visual Studio
 
 Description: This a fun, puzzle-like game, which challenges players to turn off all the lights!
 
-Software: Visual Studio
+Repository: https://github.com/thale4/LightsOut/
